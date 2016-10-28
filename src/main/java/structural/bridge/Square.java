@@ -11,7 +11,7 @@ public class Square extends Shape {
 
     @Override
     public void drawShape() {
-        System.out.printf("Drew Square ");
+        System.out.println("Drew Square ");
         getColour().fillColor();
     }
 }

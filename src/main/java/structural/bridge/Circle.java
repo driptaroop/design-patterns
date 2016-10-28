@@ -11,7 +11,7 @@ public class Circle extends Shape {
 
     @Override
     public void drawShape() {
-        System.out.printf("Drew Circle ");
+        System.out.println("Drew Circle ");
         getColour().fillColor();
     }
 }

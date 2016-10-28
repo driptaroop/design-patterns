@@ -7,6 +7,6 @@ public class RedColour implements Colour {
 
     @Override
     public void fillColor() {
-        System.out.printf("Coloured Red");
+        System.out.println("Coloured Red");
     }
 }

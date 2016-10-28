@@ -6,6 +6,6 @@ package structural.bridge;
 public class BlueColour implements Colour{
     @Override
     public void fillColor() {
-        System.out.printf("Blue Colored");
+        System.out.println("Blue Colored");
     }
 }
